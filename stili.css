@@ -1,0 +1,37 @@
+.blu {
+    background-color: #4971FF;
+    color:#FFFFFF;
+}
+
+
+#fascia-1 {
+    height:36px;
+}
+
+#fascia-1 a{
+    color:#ffffff;
+    text-decoration: none;
+    
+}
+
+#fascia-2 {
+    height:91px;
+}
+
+#fascia-2 a {
+   color: #4971FF;
+text-decoration: none;
+}
+
+#card-2 {
+    height: 577px;
+}
+
+#card-2 h5 {
+    color:black ;
+    
+}
+#card-2 p {
+   color:black;
+    
+}
